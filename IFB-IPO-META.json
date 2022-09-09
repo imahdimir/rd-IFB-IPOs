@@ -1,5 +1,5 @@
 {
-    "description": "IFB IPOs",
-    "source": "https://www.ifb.ir/datareporter/IPO.aspx",
-    "downloadDate": "2022-08-19"
+    "dsc": "IFB IPOs",
+    "src": "https://www.ifb.ir/datareporter/IPO.aspx",
+    "desc": "Manually downloaded from the source link by cllicking on the export to excel on the src url webpage, then save as .xlsx fmt"
 }
